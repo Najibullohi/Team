@@ -2,6 +2,81 @@
     margin: 0;
     padding: 0;
 }
+
+.isour h2{
+padding-top: 99px;   
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+text-align: center;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #FF8A63;
+}
+.ishow h1{
+ padding-bottom: 11px;
+ font-family: 'Poppins';
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+text-align: center;
+color: #45525B;
+}
+.lorem p{
+    padding-bottom: 30px;
+    font-family: 'Poppins';
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+color: #6F7278;
+}
+.isopsh{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.isleft img{
+    border-radius: 30px;
+}
+
+.isfight img{
+padding: 12px 12px;
+background: #45525B;
+margin: 44px 0px 9px 0px;
+
+}
+.isfight h1{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+letter-spacing: 2px;
+text-transform: uppercase;
+color: #45525B;
+}
+.isfight p{
+font-family: 'Poppins';
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #6F7278;
+margin-bottom: 27px;
+}
+.isposli{
+    width: 100%;
+}
+.isposli img{
+    margin: 87px 0px 88px 0px;
+width: 100%;
+}
+#isd{
+    background: #FAFAFC;
+border: 1px solid rgba(202, 204, 209, 0.2);
+border-radius: 10px;
+
 .navbar{
     padding: 10px;
     background-color: aliceblue;
@@ -110,4 +185,5 @@ width: 28%;
 .commodo{
     margin-left: 10px;
     margin-top: 40px;
+
 }
